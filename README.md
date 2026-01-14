@@ -7,12 +7,12 @@ I work on projects highlighting machine learning models and data analysis; using
 
 I have worked with React.js and Spline for other internship projects!
 
-#Tools and Tech
+# Tools and Tech
 - Tools: TensorFlow, scikit-learn, Numpy, pandas
 - Languages: Python, R, SQL
 - Frontend : React.js, Spline, Streamlit.io
 
-#A bit about me
+# A bit about me
 - I have two pets, a cat and a dog! 🐈‍⬛ 🐕
 - I love food: cooking at home and exploring new places to eat
 - I like to build things that are simple and easy to use.
