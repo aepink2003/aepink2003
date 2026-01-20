@@ -14,7 +14,7 @@ I have worked with React.js and Spline for other internship projects!
 
 # A bit about me
 - I have two pets, a cat and a dog! 🐈‍⬛ 🐕
-- I love food: cooking at home and exploring new places to eat
+- I love food: cooking at home and exploring new places to eat.
 - I like to build things that are simple and easy to use.
 
 
